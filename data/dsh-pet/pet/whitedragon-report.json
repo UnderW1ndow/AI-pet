@@ -1,0 +1,11 @@
+{
+  "segmentation": "提供的三视图与绿幕视频",
+  "engine": "imported-video",
+  "source_bbox": [
+    0,
+    0,
+    1280,
+    720
+  ],
+  "foot_y": 306
+}

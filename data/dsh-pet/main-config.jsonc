@@ -1,0 +1,14 @@
+{
+  "notificationsEnabled": false,
+  "pets": [
+    {
+      "id": "main",
+      "name": "dafeiyu",
+      "display": "none",
+      "balanceEnabled": false,
+      "whisperEnabled": false,
+      "workStatusEnabled": false,
+      "fixedEnabled": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "segmentation": "提供的透明 PNG",
+  "engine": "imported-video",
+  "source_bbox": [
+    210,
+    36,
+    429,
+    306
+  ],
+  "foot_y": 306
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dsh-pet-electron-helper",
+  "version": "0.11.0",
+  "private": true,
+  "description": "AI-pet desktop helper — Electron transparent overlay window",
+  "main": "main.js"
+}

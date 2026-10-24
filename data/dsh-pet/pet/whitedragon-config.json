@@ -1,0 +1,51 @@
+{
+  "pets": [
+    {
+      "id": "whitedragon",
+      "name": "whitedragon",
+      "size": 320,
+      "balanceEnabled": false,
+      "whisperEnabled": false,
+      "workStatusEnabled": false,
+      "fixedEnabled": true,
+      "display": "none",
+      "position": {
+        "corner": "bottom-right",
+        "marginX": 32,
+        "marginY": 48
+      }
+    }
+  ],
+  "animations": {
+    "idle": [
+      "待机呼吸",
+      "眨眼"
+    ],
+    "turn": [],
+    "drag": [],
+    "clicks": [
+      "点击回应"
+    ],
+    "moves": {
+      "default": {
+        "minDist": 80,
+        "maxDist": 360,
+        "margin": 20,
+        "leadSec": 2,
+        "tailSec": 2
+      },
+      "actions": []
+    },
+    "categories": [],
+    "events": {
+      "balance": [
+        "待机呼吸"
+      ]
+    }
+  },
+  "animationWeights": {
+    "idle": 100,
+    "turn": 0,
+    "move": 0
+  }
+}

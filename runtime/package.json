@@ -1,0 +1,14 @@
+{
+  "name": "ai-pet",
+  "version": "0.11.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-pet desktop runtime adapted from PC2005-cloud/dsh-pet",
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.135.0",
+    "@electron-internal/extract-zip": "^1.0.5",
+    "@electron/get": "^5.1.0",
+    "openai": "7.39.0",
+    "zod": "4.6.7"
+  }
+}
